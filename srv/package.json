@@ -15,7 +15,7 @@
     "dotenv-safe": "^4.0.4",
     "express": "^4.16.2",
     "jsonwebtoken": "^8.1.0",
-    "mongoose": "^4.13.0",
+    "mongoose": "^5.7.5",
     "superagent": "^3.8.0",
     "time-uuid": "^1.0.0"
   },
